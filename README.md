@@ -1,4 +1,4 @@
-# Speech to text
+# Using Python to convert Speech to text 
 **Date: 11/11/2024**
 
 🎯 Aim: Convert text from audio for learning English purposes or making content for video.
